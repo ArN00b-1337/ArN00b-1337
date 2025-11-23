@@ -1,6 +1,6 @@
 # 💫 About Me:
-Undergraduate Avionics Engineering student.<br>Interest in Robotics, Embedded system
-<br> Learning ROS,Python
+Undergraduate Avionics Engineering student.<br>Interest in Robotics, Embedded system.
+<br> Learning ROS,Python.
 
 
 ## 🌐 Socials:
