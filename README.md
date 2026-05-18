@@ -1,12 +1,12 @@
-# 💫 About Me:
+# About Me:
 Undergraduate Avionics Engineering student.<br>Interest in Robotics, Embedded system.
 <br> Learning ROS,Python.
 
 
-## 🌐 Socials:
+## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakraborty-25024027@aaub.edu.bd) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
